@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hello, I'm LeeZiRui!
+## Hello, I'm Monfra!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: __z.ayers@icloud.com__
+- How to reach me: monfra875@gmail.com
 
 ---
 
