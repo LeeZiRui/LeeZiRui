@@ -5,9 +5,9 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Portfolio](https://monfra-admin.vercel.com)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
+[![Portfolio](https://img.shields.io/badge/-Github-000?style=flat&logo=Portfolio&logoColor=white)]( https://monfra-admin.vercel.app)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/monfra-group)
+[![Gmail](https://img.shields.io/badge/-Github-000?style=flat&logo=Gmail&logoColor=white)](https://monfra875@gmail.com)
 
 &nbsp;
 
@@ -18,7 +18,6 @@ You can use the website to generate badges: https://shields.io/
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: monfra875@gmail.com
 
 ---
 
