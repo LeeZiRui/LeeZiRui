@@ -5,9 +5,9 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-#020332?style=flat&logo=Portfolio&logoColor=white)]( https://monfra-admin.vercel.app)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/monfra-group)
-[![Gmail](https://img.shields.io/badge/-Gmail-#081626?style=flat&logo=Gmail&logoColor=white)](https://monfra875@gmail.com)
+[![Portfolio](https://https://img.shields.io/badge/-Portfolio-000?style=flat&logo=portfolio&logoColor=white)]( https://monfra-admin.vercel.app)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]( https://github.com/monfra-group)
+[![Gmail](https://https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=white)]( https://monfra875@gmail.com)
 
 &nbsp;
 
